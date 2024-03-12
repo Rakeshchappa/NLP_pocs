@@ -119,20 +119,5 @@ plt.ylabel('Frequency')
 plt.title('Distribution of Number of Members for Each Skill')
 plt.show()
 
-# print("HIstooo")
-# # Plot distribution of counts for each skill
-# # plt.figure(figsize=(12, 6))
-# # sns.set(style="whitegrid")
-# # ax=sns.histplot(data=df, x='Count', bins=10, kde=True, hue='Skill', multiple='stack', palette='viridis')
-# # for bar in ax.patches:
-# #     height = bar.get_height()
-# #     width = bar.get_x() + bar.get_width() / 2
-# #     ax.text(width, height, f'{int(height)}', ha='center', va='bottom', fontsize=8)
-# #
-# # plt.xlabel('Number of Members')
-# # plt.ylabel('Frequency')
-# # plt.title('Distribution of Number of Members for Each Skill')
-# # plt.legend(title='Skills', bbox_to_anchor=(1.05, 1), loc='upper left')
-# # plt.show()
 
 
